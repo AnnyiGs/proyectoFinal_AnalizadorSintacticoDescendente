@@ -492,6 +492,8 @@ def analizar_con_3_direcciones():
         else:
             print("Opcion no valida. Por favor selecciona 1, 2 o 3.")
 
+#lo importante :p
+
 def mostrar_ejemplos():
     print("-" * 60)
     print("EJEMPLOS PREDEFINIDOS:\n")
